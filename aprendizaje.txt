@@ -1,0 +1,4 @@
+en la consulta a una api local el buscador me bloqueo por cors... este error se soluciono
+instalando una extecion que me bloquea el cors en esa pgina cors unblock
+
+-> la solicitud poor fetch con la url no funciona, se debe poner la url en una variable y despues llamar al fetch de la variable directamente...ejemplo en services
